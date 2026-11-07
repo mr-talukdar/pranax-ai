@@ -1,0 +1,26 @@
+[
+  {
+    "member_id":101,
+    "name":"Rahul",
+    "branch":"Kolkata",
+    "monthly_fee":1500
+  },
+  {
+    "member_id":102,
+    "name":"Arjun",
+    "branch":"Delhi",
+    "monthly_fee":1800
+  },
+  {
+    "member_id":103,
+    "name":"Priya",
+    "branch":"Kolkata",
+    "monthly_fee":1500
+  },
+  {
+    "member_id":104,
+    "name":"Sneha",
+    "branch":"Mumbai",
+    "monthly_fee":2000
+  }
+]
